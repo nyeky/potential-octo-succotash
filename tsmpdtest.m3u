@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,ALJAZEERA
+http://115.146.176.131:80/TimRizal/TimRizal/4.ts
+#EXTINF:-1,FOX NEWS
+http://115.146.176.131:80/TimRizal/TimRizal/7.ts
+#EXTINF:-1,ARIRANG KOREA
+http://115.146.176.131:80/TimRizal/TimRizal/8.ts
+#EXTINF:-1,PTV
+http://115.146.176.131:80/TimRizal/TimRizal/10.ts
+#EXTINF:-1,THRILL
+http://115.146.176.131:80/TimRizal/TimRizal/13.ts
+#EXTINF:-1,KAPAMILYA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+#EXTINF:-1,CINEMAONE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+#EXTINF:-1,BILYONARYO CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
