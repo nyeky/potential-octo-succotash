@@ -1,21 +1,45 @@
 #EXTM3U
 #EXTINF:-1,ALJAZEERA
 http://115.146.176.131:80/TimRizal/TimRizal/4.ts
+
 #EXTINF:-1,FOX NEWS
 http://115.146.176.131:80/TimRizal/TimRizal/7.ts
+
 #EXTINF:-1,ARIRANG KOREA
 http://115.146.176.131:80/TimRizal/TimRizal/8.ts
+
 #EXTINF:-1,PTV
 http://115.146.176.131:80/TimRizal/TimRizal/10.ts
+
 #EXTINF:-1,THRILL
 http://115.146.176.131:80/TimRizal/TimRizal/13.ts
-#EXTINF:-1,KAPAMILYA
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#EXTINF:-1 tvg-id="kapcha" tvg-name="KAPAMILYA (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",KAPAMILYA (TFC)
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
-#EXTINF:-1,CINEMAONE
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
-#EXTINF:-1,BILYONARYO CHANNEL
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",TFC ASIA
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
+#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",TFC EUROPE
+https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
+#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",TFC CANADA
+https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",CINEMO TFC
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",CINEMAONE TFC
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
