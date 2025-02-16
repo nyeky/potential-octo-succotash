@@ -1,13 +1,12 @@
 #EXTM3U 
 
-
-#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/9498f877daeee2e1bec6b0042709fab4.png" group-title="📺BACK-UP PH V4📡",ABS-CBN
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/TimRizal/TimRizal/16.ts" group-title="📺BACK-UP PH V4📡",ABS-CBN
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/1e22ec95a93860200a7b49dac1a45b3d.png" group-title="📺BACK-UP PH V4📡",A2Z
 http://115.146.176.131:80/TimRizal/TimRizal/68.ts
 
-#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/a9ff7a33ed0f05356304efb5fee20731.png" group-title="📺BACK-UP PH V4📡",KAPAMILYA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/POt9KB8.png" group-title="📺BACK-UP PH V4📡",KAPAMILYA
 http://115.146.176.131:80/TimRizal/TimRizal/89.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/0f343f8f4eab0b339428505f308fe4b2.png" group-title="📺BACK-UP PH V4📡",TV 5
@@ -70,7 +69,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/25.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="📺BACK-UP PH V4📡",CNN
 http://115.146.176.131:80/TimRizal/TimRizal/15.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/da66dea49c256c9482db9c0dc4c1605a.png" group-title="📺BACK-UP PH V4📡",ALJAZEERA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="📺BACK-UP PH V4📡",ALJAZEERA
 http://115.146.176.131:80/TimRizal/TimRizal/4.ts
 
 #EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/d23fe108561a855805e247896ae4b9a6.png" group-title="📺BACK-UP PH V4📡",FOX NEWS
@@ -103,7 +102,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/29.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/6c374acf0ca2b976bbaa32f5483449bd.png" group-title="📺BACK-UP PH V4📡",HITS MOVIES
 http://115.146.176.131:80/TimRizal/TimRizal/36.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/0436a4f0cc263fa6b33ac3e6fa1084f3.png" group-title="📺BACK-UP PH V4📡",UNTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/300px-UNTV-Logo-2016.svg.png" group-title="📺BACK-UP PH V4📡",UNTV
 http://115.146.176.131:80/TimRizal/TimRizal/38.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/a99e9f049d1eebd2b3117ae9dbac1ada.png" group-title="📺BACK-UP PH V4📡",LIGHT NETWORK
@@ -139,7 +138,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/55.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/f215f7932a97b5a8996cab931a7f7476.jpg" group-title="📺BACK-UP PH V4📡",PREMIER SPORTS
 http://115.146.176.131:80/TimRizal/TimRizal/57.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/5a4c8aa22146a7691717bd77782d5a36.jpg" group-title="📺BACK-UP PH V4📡",ANIMAX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856" group-title="📺BACK-UP PH V4📡",ANIMAX
 http://115.146.176.131:80/TimRizal/TimRizal/59.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/c18c2cf906dd0b1da4d9f275ba4c43f2.png" group-title="📺BACK-UP PH V4📡",HISTORY
@@ -166,7 +165,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/86.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/504688d3aa45afc143afdbce685e6e1e.png" group-title="📺BACK-UP PH V4📡",NBA TV
 http://115.146.176.131:80/TimRizal/TimRizal/97.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",CNA
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="📺BACK-UP PH V4📡",ph live",CNA
 http://115.146.176.131:80/TimRizal/TimRizal/5.ts
 
 #EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ISLAND LIVING
@@ -184,44 +183,45 @@ http://115.146.176.131:80/TimRizal/TimRizal/28.ts
 #EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",LUTOS MACAU
 http://115.146.176.131:80/TimRizal/TimRizal/30.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",BLOOMBERG
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Bloomberg?file=Bloomberg_2004.svg" group-title="📺BACK-UP PH V4📡",ph live",BLOOMBERG
 http://115.146.176.131:80/TimRizal/TimRizal/45.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",SCREAMFLIX
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",
 http://115.146.176.131:80/TimRizal/TimRizal/50.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",SHOFAR
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Shofar_Music?file=Shofar_M.jpg" group-title="📺BACK-UP PH V4📡",ph live",SHOFAR
 http://115.146.176.131:80/TimRizal/TimRizal/51.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",STAR CHINESE MOVIES
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarCHINESEM2D.png" group-title="📺BACK-UP PH V4📡",ph live",STAR CHINESE MOVIES
 http://115.146.176.131:80/TimRizal/TimRizal/52.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ROCK EXTREAME
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png" group-title="📺BACK-UP PH V4📡",ph live",ROCK EXTREAME
 http://115.146.176.131:80/TimRizal/TimRizal/53.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",SOLAR LEARNING
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Solar_Learning?file=Solar_Learning_logo.svg" group-title="📺BACK-UP PH V4📡",ph live",SOLAR LEARNING
 http://115.146.176.131:80/TimRizal/TimRizal/56.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",EURONEWS
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Euronews?file=Euronews_2022_Stacked_III.svg#2016%E2%80%932023" group-title="📺BACK-UP PH V4📡",ph live",EURONEWS
 http://115.146.176.131:80/TimRizal/TimRizal/58.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ALLTV
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="📺BACK-UP PH V4📡",ph live",ALLTV
 http://115.146.176.131:80/TimRizal/TimRizal/60.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",JEEPNEY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/300px-Jeepney_TV_Logo_2015.svg.png
+" group-title="📺BACK-UP PH V4📡",ph live",JEEPNEY TV
 http://115.146.176.131:80/TimRizal/TimRizal/64.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",MY CINEMA EUROPE
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/My_Cinema?file=MCN.png" group-title="📺BACK-UP PH V4📡",ph live",MY CINEMA EUROPE
 http://115.146.176.131:80/TimRizal/TimRizal/67.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",KARAOKE
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/KaraOKE_Channel?file=Karaoke_channel_id.png" group-title="📺BACK-UP PH V4📡",ph live",KARAOKE
 http://115.146.176.131:80/TimRizal/TimRizal/70.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",SOLAR SPORTS
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Solar_Sports?file=Solar_Sports_Logo_2024.png#2024%E2%80%93present" group-title="📺BACK-UP PH V4📡",ph live",SOLAR SPORTS
 http://115.146.176.131:80/TimRizal/TimRizal/80.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",GEM
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Gem_TV?file=Gem_TV_logo.png" group-title="📺BACK-UP PH V4📡",ph live",GEM
 http://115.146.176.131:80/TimRizal/TimRizal/82.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",EMTV
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Emtv?file=TvEM_logosu.png" group-title="📺BACK-UP PH V4📡",ph live",EMTV
 http://115.146.176.131:80/TimRizal/TimRizal/84.ts
