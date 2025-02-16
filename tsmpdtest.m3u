@@ -83,7 +83,7 @@ https://absp-live.akamaized.net/dash/live/2099524/gmalf/manifest.mpd|Referer=htt
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
-#EXTINF:-1 tvg-id="gmanewstv" tvg-name="GMA NEWS TV" tvg-logo="https://images.seeklogo.com/logo-png/39/1/gma-news-tv-logo-png_seeklogo-399249.png?v=1957548420833652496" group-title="🇵🇭 KAPUSO CHANNELS",GMA NEWS TV
+#EXTINF:-1 tvg-id="gmanewstv" tvg-name="GMA NEWS TV" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="🇵🇭 KAPUSO CHANNELS",GMA NEWS TV
 https://absp-live.akamaized.net/dash/live/2099526/gmanw/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #EXTINF:-1 tvg-logo=""group-title="Undefined",Nick Jr. Pluto TV
