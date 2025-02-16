@@ -58,7 +58,7 @@ https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/in
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
-#EXTINF:-1 tvg-id="morenter" tvg-name="MOR ENTERTAINMENT" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 TFC CHANNELS",MOR ENTERTAINMENT (TFC)
+#EXTINF:-1 tvg-id="morenter" tvg-name="MOR ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/MOREnt2021.png/revision/latest/scale-to-width-down/1000?cb=20241228114458" group-title="🇵🇭 TFC CHANNELS",MOR ENTERTAINMENT (TFC)
 https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
