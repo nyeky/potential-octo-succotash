@@ -48,13 +48,13 @@ http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/7a8eef9f7d952baa12e27a144485093e.png" group-title="📺BACK-UP PH V4📡",MYX
 http://115.146.176.131:80/TimRizal/TimRizal/66.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",PINOY EXTREME
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Pinoy_Xtreme_Channel?file=Pinoyextremechannel.png" group-title="📺BACK-UP PH V4📡",ph live",PINOY EXTREME
 http://115.146.176.131:80/TimRizal/TimRizal/37.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",RJ TV
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/RJ_Digi-TV?file=Screenshot_2019-08-30_at_5.25.09_PM.png#2019%E2%80%93present" group-title="📺BACK-UP PH V4📡",ph live",RJ TV
 http://115.146.176.131:80/TimRizal/TimRizal/44.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",INCTV
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/82/c8/4d/82c84d0d-a2a1-2df8-ee23-da091ed671c6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg" group-title="📺BACK-UP PH V4📡",ph live",INCTV
 http://115.146.176.131:80/TimRizal/TimRizal/6.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/8e9e132a0adfe658b3be87f166ff327e.jpg" group-title="📺BACK-UP PH V4📡",PBA RUSH
@@ -63,7 +63,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/69.ts
 #EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/9eb5d74ad97a036891e3bfca7b171118.jpg" group-title="📺BACK-UP PH V4📡",ONE PH
 http://115.146.176.131:80/TimRizal/TimRizal/81.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",TELERADYO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/500px-TeleRadyo_Serbisyo_logo.svg.png" group-title="📺BACK-UP PH V4📡",ph live",TELERADYO
 http://115.146.176.131:80/TimRizal/TimRizal/25.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="📺BACK-UP PH V4📡",CNN
@@ -168,25 +168,25 @@ http://115.146.176.131:80/TimRizal/TimRizal/97.ts
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg" group-title="📺BACK-UP PH V4📡",ph live",CNA
 http://115.146.176.131:80/TimRizal/TimRizal/5.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ISLAND LIVING
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Island_Living_Channel?file=Cropped-island_living_logo.png" group-title="📺BACK-UP PH V4📡",ph live",ISLAND LIVING
 http://115.146.176.131:80/TimRizal/TimRizal/9.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",K-CH
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Knowledge-Channel.png" group-title"📺BACK-UP PH V4📡",ph live",K-CH
 http://115.146.176.131:80/TimRizal/TimRizal/11.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",HOPE TV
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hope_Channel?file=Hope_Channel_logo_2016.svg" group-title="📺BACK-UP PH V4📡",ph live",HOPE TV
 http://115.146.176.131:80/TimRizal/TimRizal/18.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ZOOMOO
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/ZooMoo_Kids?file=ZooMoo_Kids_2022.svg#2022%E2%80%93present" group-title="📺BACK-UP PH V4📡",ph live",ZOOMOO
 http://115.146.176.131:80/TimRizal/TimRizal/28.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",LUTOS MACAU
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LotusTV?file=Lotus_Macau.png" group-title="📺BACK-UP PH V4📡",ph live",LUTOS MACAU
 http://115.146.176.131:80/TimRizal/TimRizal/30.ts
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Bloomberg?file=Bloomberg_2004.svg" group-title="📺BACK-UP PH V4📡",ph live",BLOOMBERG
 http://115.146.176.131:80/TimRizal/TimRizal/45.ts
 
-#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Live!?file=Live%21_logo.png" group-title="📺BACK-UP PH V4📡",ph live",
 http://115.146.176.131:80/TimRizal/TimRizal/50.ts
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Shofar_Music?file=Shofar_M.jpg" group-title="📺BACK-UP PH V4📡",ph live",SHOFAR
@@ -207,8 +207,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/58.ts
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="📺BACK-UP PH V4📡",ph live",ALLTV
 http://115.146.176.131:80/TimRizal/TimRizal/60.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/300px-Jeepney_TV_Logo_2015.svg.png
-" group-title="📺BACK-UP PH V4📡",ph live",JEEPNEY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/300px-Jeepney_TV_Logo_2015.svg.png" group-title="📺BACK-UP PH V4📡",ph live",JEEPNEY TV
 http://115.146.176.131:80/TimRizal/TimRizal/64.ts
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/My_Cinema?file=MCN.png" group-title="📺BACK-UP PH V4📡",ph live",MY CINEMA EUROPE
