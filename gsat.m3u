@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="http://115.146.176.131:80/TimRizal/TimRizal/16.ts" group-title="📺BACK-UP PH V4📡",ABS-CBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/POt9KB8.png" group-title="📺BACK-UP PH V4📡",ABS-CBN
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/1e22ec95a93860200a7b49dac1a45b3d.png" group-title="📺BACK-UP PH V4📡",A2Z
@@ -15,16 +15,16 @@ http://115.146.176.131:80/TimRizal/TimRizal/90.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/5f1db429d73eb0356f4226597ee78d9b.png" group-title="📺BACK-UP PH V4📡",GMA
 http://115.146.176.131:80/TimRizal/TimRizal/14.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/901a4189fefa7d9e90356245ccffe210.png" group-title="📺BACK-UP PH V4📡",PTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plyCuAw.png" group-title="📺BACK-UP PH V4📡",PTV
 http://115.146.176.131:80/TimRizal/TimRizal/10.ts
 
 #EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/f304946a477d3253bbfb865e6adb3c9f.png" group-title="📺BACK-UP PH V4📡",ONE SPORTS
 http://115.146.176.131:80/TimRizal/TimRizal/23.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/ccf1e265a9c837d77dd9fd83286a0ba1.jpg" group-title="📺BACK-UP PH V4📡",DZRH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DZRH_logo_2021.png" group-title="📺BACK-UP PH V4📡",DZRH
 http://115.146.176.131:80/TimRizal/TimRizal/24.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/d09c202159d32e4b2c8574185469e03b.jpg" group-title="📺BACK-UP PH V4📡",CINEMAONE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="📺BACK-UP PH V4📡",CINEMAONE
 http://115.146.176.131:80/TimRizal/TimRizal/31.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/91ead07b36d35d691c26714fecc1923a.png" group-title="📺BACK-UP PH V4📡",PBO
@@ -39,10 +39,10 @@ http://115.146.176.131:80/TimRizal/TimRizal/34.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/c9b63fa4ded0d7d265e56c96a2038d0b.png" group-title="📺BACK-UP PH V4📡",GMA NEWS TV
 http://115.146.176.131:80/TimRizal/TimRizal/35.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/ba522f5b7c3d592de454b1afad3f718a.png" group-title="📺BACK-UP PH V4📡",IBC 13
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/4/45/IBC_13_Logo.png" group-title="📺BACK-UP PH V4📡",IBC 13
 http://115.146.176.131:80/TimRizal/TimRizal/47.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/35df06ff3b98a40216b084aae4d9622f.jpg" group-title="📺BACK-UP PH V4📡",SMNI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="📺BACK-UP PH V4📡",SMNI
 http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/7a8eef9f7d952baa12e27a144485093e.png" group-title="📺BACK-UP PH V4📡",MYX
@@ -72,7 +72,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/15.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="📺BACK-UP PH V4📡",ALJAZEERA
 http://115.146.176.131:80/TimRizal/TimRizal/4.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/d23fe108561a855805e247896ae4b9a6.png" group-title="📺BACK-UP PH V4📡",FOX NEWS
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="📺BACK-UP PH V4📡",FOX NEWS
 http://115.146.176.131:80/TimRizal/TimRizal/7.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/14a646307c92e88856903295e6fa0d5c.png" group-title="📺BACK-UP PH V4📡",ARIRANG KOREA
@@ -201,7 +201,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/53.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Solar_Learning?file=Solar_Learning_logo.svg" group-title="📺BACK-UP PH V4📡",ph live",SOLAR LEARNING
 http://115.146.176.131:80/TimRizal/TimRizal/56.ts
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Euronews?file=Euronews_2022_Stacked_III.svg#2016%E2%80%932023" group-title="📺BACK-UP PH V4📡",ph live",EURONEWS
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Euronews?file=Euronews_1996.png" group-title="📺BACK-UP PH V4📡",ph live",EURONEWS
 http://115.146.176.131:80/TimRizal/TimRizal/58.ts
 
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="📺BACK-UP PH V4📡",ph live",ALLTV
