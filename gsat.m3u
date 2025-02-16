@@ -123,7 +123,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/43.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/cfe8e6624636192cb2e22547d0ed84db.png" group-title="📺BACK-UP PH V4📡",BOOMERANG
 http://115.146.176.131:80/TimRizal/TimRizal/46.ts
 
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/c0503bfc0ee57562777d53c6891d801e.png" group-title="📺BACK-UP PH V4📡",LIFETIME
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/c0503bfc0ee57562777d53c6891d801e.png" group-title="📺BACK-UP PH V4📡",GNN
 http://115.146.176.131:80/TimRizal/TimRizal/48.ts
 
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/7322e4e74e109cf689b50f143663abaa.jpg" group-title="📺BACK-UP PH V4📡",AXN
@@ -180,7 +180,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/18.ts
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/ZooMoo#/media/File:ZooMoo_logo.svg" group-title="📺BACK-UP PH V4📡",ph live",ZOOMOO
 http://115.146.176.131:80/TimRizal/TimRizal/28.ts
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LotusTV?file=Lotus_Macau.png" group-title="📺BACK-UP PH V4📡",ph live",LOTUS MACAU
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Lotus_Macau.png/revision/latest?cb=20221203121515" group-title="📺BACK-UP PH V4📡",ph live",LOTUS MACAU
 http://115.146.176.131:80/TimRizal/TimRizal/30.ts
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Bloomberg?file=Bloomberg_2004.svg" group-title="📺BACK-UP PH V4📡",ph live",BLOOMBERG
@@ -204,10 +204,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/60.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/300px-Jeepney_TV_Logo_2015.svg.png" group-title="📺BACK-UP PH V4📡",ph live",JEEPNEY TV
 http://115.146.176.131:80/TimRizal/TimRizal/64.ts
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/My_Cinema?file=MCN.png" group-title="📺BACK-UP PH V4📡",ph live",MY CINEMA EUROPE
-http://115.146.176.131:80/TimRizal/TimRizal/67.ts
-
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/KaraOKE_Channel?file=Karaoke_channel_id.png" group-title="📺BACK-UP PH V4📡",ph live",KARAOKE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png/revision/latest?cb=20190711121840" group-title="📺BACK-UP PH V4📡",ph live",KARAOKE
 http://115.146.176.131:80/TimRizal/TimRizal/70.ts
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Gem_TV?file=Gem_TV_logo.png" group-title="📺BACK-UP PH V4📡",ph live",GEM
