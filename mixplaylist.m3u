@@ -1,0 +1,36 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="GMA PINOY TV"tvg-id="GMA PINOY TV"tvg-logo=""group-title="FREE IPTV",GMA PINOY TV
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101826.ts
+#EXTINF:-1 tvg-name="GMA LIFE"tvg-id="GMA LIFE"tvg-logo=""group-title="FREE IPTV",GMA LIFE
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101825.ts
+
+#EXTINF:-1 tvg-name="Discovery Science"tvg-id="Discovery Science"tvg-logo=""group-title="FREE IPTV",Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+
+#EXTINF:-1 tvg-name="DIY"tvg-id="DIY"tvg-logo=""group-title="FREE IPTV",DIY
+http://fl2.moveonjoy.com/DIY/index.m3u8
+
+#EXTINF:-1 tvg-name="ABS-CBN"tvg-id="ABS-CBN"tvg-logo="http://115.146.176.131:80/images/9498f877daeee2e1bec6b0042709fab4.png"group-title="📺BACK-UP PH V4📡",ABS-CBN
+http://115.146.176.131:80/TimRizal/TimRizal/16.ts
+
+#EXTINF:-1 tvg-name="A2Z"tvg-id="A2Z"tvg-logo="http://115.146.176.131:80/images/1e22ec95a93860200a7b49dac1a45b3d.png"group-title="📺BACK-UP PH V4📡",A2Z
+http://115.146.176.131:80/TimRizal/TimRizal/68.ts
+
+#EXTINF:-1 tvg-name="KAPAMILYA (TFC)"tvg-id="kapcha"tvg-logo="https://i.imgur.com/54f9r5A.png"group-title="🇵🇭 TFC CHANNELS",KAPAMILYA (TFC)
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+
+#EXTINF:-1 tvg-name="TFC ASIA"tvg-id="tfcasia"tvg-logo="https://i.imgur.com/54f9r5A.png"group-title="🇵🇭 TFC CHANNELS",TFC ASIA
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
+#EXTINF:-1 tvg-name="PTV4 (CIG)"tvg-id="ptv42ph"tvg-logo="https://i.imgur.com/fx1Y2Eh.png"group-title="🇵🇭 CIGNAL LOCAL",PTV4 (CIG)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+
+#EXTINF:-1 tvg-name="KNOWLEDGE CHANNELS (CIG)"tvg-id="knowlegecha2"tvg-logo="https://i.imgur.com/fx1Y2Eh.png"group-title="🇵🇭 CIGNAL LOCAL",KNOWLEDGE CHANNELS (CIG)
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+
+#EXTINF:-1 tvg-name="HITS"tvg-id="hitsph"tvg-logo="https://i.imgur.com/fx1Y2Eh.png"group-title="🇵🇭 CONV-CIG MOVIES",HITS
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+
+#EXTINF:-1 tvg-name="HITS NOW"tvg-id="hitsnow"tvg-logo="https://i.imgur.com/fx1Y2Eh.png"group-title="🇵🇭 CONV-CIG MOVIES",HITS NOW
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
