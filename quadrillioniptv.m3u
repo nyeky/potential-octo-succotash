@@ -2,102 +2,102 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-#EXTINF:-1 tvg-id="kapcha" tvg-name="KAPAMILYA (TFC)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",KAPAMILYA 
+#EXTINF:-1 tvg-id="kapcha" tvg-name="KAPAMILYA (TFC)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",KAPAMILYA 
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",TFC ASIA
+#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",TFC ASIA
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
-#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",TFC EUROPE
+#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",TFC EUROPE
 https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
-#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",TFC CANADA
+#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",TFC CANADA
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",CINEMO 
+#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",CINEMO 
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",CINEMAONE 
+#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",CINEMAONE 
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
-#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO (TFC)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",TELERADYO 
+#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO (TFC)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS,TELERADYO 
 https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-#EXTINF:-1 tvg-id="myxtfc" tvg-name="MYX TFC" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",MYX 
+#EXTINF:-1 tvg-id="myxtfc" tvg-name="MYX TFC" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",MYX 
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
-#EXTINF:-1 tvg-id="morenter" tvg-name="MOR ENTERTAINMENT" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",MOR ENTERTAINMENT 
+#EXTINF:-1 tvg-id="morenter" tvg-name="MOR ENTERTAINMENT" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",MOR ENTERTAINMENT 
 https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=141288d93b0f4f89a3f614a365671411:ccd2e8162c5fe3f6d5207fb941c09686
-#EXTINF:-1 tvg-id="knowchantfc" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="TFC CHANNELS",KNOWLEDGE CHANNELS
+#EXTINF:-1 tvg-id="knowchantfc" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",KNOWLEDGE CHANNELS
 https://abslive.akamaized.net/dash/live/2028189/kc/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-#EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="KAPUSO CHANNELS",GMA PINOY TV 
+#EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",GMA PINOY TV 
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b66176b0f0748e38c6db27263f6f1a1:12ca5ae7cf4772736945689727961aec
-#EXTINF:-1 tvg-id="gmapinoytv2" tvg-name="GMA PINOY TV (TFC)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="KAPUSO CHANNELS",GMA PINOY TV 
+#EXTINF:-1 tvg-id="gmapinoytv2" tvg-name="GMA PINOY TV (TFC)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",GMA PINOY TV 
 https://absp-live.akamaized.net/dash/live/2099522/gmapt/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=369bcd591a7e42cea6a829879962ee77:7c0548d4ea14676297c0a36ea0e06301
-#EXTINF:-1 tvg-id="gmalifetv" tvg-name="GMA LIFE TV" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="KAPUSO CHANNELS",GMA LIFE TV 
+#EXTINF:-1 tvg-id="gmalifetv" tvg-name="GMA LIFE TV" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",GMA LIFE TV 
 https://absp-live.akamaized.net/dash/live/2099524/gmalf/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
-#EXTINF:-1 tvg-id="gmanewstv" tvg-name="GMA NEWS TV" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="KAPUSO CHANNELS",GMA NEWS TV 
+#EXTINF:-1 tvg-id="gmanewstv" tvg-name="GMA NEWS TV" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",GMA NEWS TV 
 https://absp-live.akamaized.net/dash/live/2099526/gmanw/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-#EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="CIGNAL LOCAL",BILYONARYO CHANNEL (CIG)
+#EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",BILYONARYO CHANNEL
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-#EXTINF:-1 tvg-id="tv5ph2" tvg-name="TV5 HD (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="CIGNAL LOCAL",TV5 HD (CIG)
+#EXTINF:-1 tvg-id="tv5ph2" tvg-name="TV5 HD" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-#EXTINF:-1 tvg-id="a2z2" tvg-name="A2Z (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="CIGNAL LOCAL",A2Z (CIG)
+#EXTINF:-1 tvg-id="a2z2" tvg-name="A2Z" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",A2Z 
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
-#EXTINF:-1 tvg-id="ibc2ph" tvg-name="IBC (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="CIGNAL LOCAL",IBC (CIG)
+#EXTINF:-1 tvg-id="ibc2ph" tvg-name="IBC" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",IBC 
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
-#EXTINF:-1 tvg-id="ptv42ph" tvg-name="PTV4 (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CIGNAL LOCAL",PTV4 (CIG)
+#EXTINF:-1 tvg-id="ptv42ph" tvg-name="PTV4" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",PTV4 
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
-#EXTINF:-1 tvg-id="knowlegecha2" tvg-name="KNOWLEDGE CHANNELS (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CIGNAL LOCAL",KNOWLEDGE CHANNELS (CIG)
+#EXTINF:-1 tvg-id="knowlegecha2" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",KNOWLEDGE CHANNELS 
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -107,35 +107,35 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
-#EXTINF:-1 tvg-id="tvup" tvg-name="TVUP" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CIGNAL LOCAL",TVUP
+#EXTINF:-1 tvg-id="tvup" tvg-name="TVUP" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",TVUP
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-#EXTINF:-1 tvg-id="oneph2" tvg-name="ONE PH (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CIGNAL LOCAL",ONE PH (CIG)
+#EXTINF:-1 tvg-id="oneph2" tvg-name="ONE PH" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",ONE PH 
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-#EXTINF:-1 tvg-id="onenews2" tvg-name="ONE NEWS (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CIGNAL LOCAL",ONE NEWS (CIG)
+#EXTINF:-1 tvg-id="onenews2" tvg-name="ONE NEWS" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",ONE NEWS
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
-#EXTINF:-1 tvg-id="truefmph" tvg-name="TRUE FM" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CIGNAL LOCAL",TRUE FM
+#EXTINF:-1 tvg-id="truefmph" tvg-name="TRUE FM" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",TRUE FM
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:-1 tvg-id="dzbbsuper" tvg-name="DZBB SUPER RAYDO" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CIGNAL LOCAL",DZBB SUPER RAYDO
+#EXTINF:-1 tvg-id="dzbbsuper" tvg-name="DZBB SUPER RAYDO" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",DZBB SUPER RAYDO
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-#EXTINF:-1 tvg-id="vivacinema2" tvg-name="VIVA CINEMA (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CONV-CIG MOVIES",VIVA CINEMA (CIG)
+#EXTINF:-1 tvg-id="vivacinema2" tvg-name="VIVA CINEMA" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",VIVA CINEMA
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-#EXTINF:-1 tvg-id="pbo2" tvg-name="PBO (CIG)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 CONV-CIG MOVIES",PBO (CIG)
+#EXTINF:-1 tvg-id="pbo2" tvg-name="PBO" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELSMOVIES",PBO 
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
