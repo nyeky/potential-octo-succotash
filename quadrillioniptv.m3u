@@ -32,7 +32,7 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
-#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS,TELERADYO 
+#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="LOCAL CHANNELS",TELERADYO 
 https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -285,7 +285,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-#EXTINF:-1 tvg-id="uaapvarsity" tvg-name="UAAP VARSITY" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="",UAAP VARSITY
+#EXTINF:-1 tvg-id="uaapvarsity" tvg-name="UAAP VARSITY" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="SPORTS",UAAP VARSITY
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -486,7 +486,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-#EXTINF:-1 tvg-id="pilipinalive2" tvg-name="PILIPINAS LIVE #02" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="SPORTSLIVE",PILIPINAS LIVE #02
+#EXTINF:-1 tvg-id="pilipinalive2" tvg-name="PILIPINAS LIVE #02" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="SPORTS LIVE",PILIPINAS LIVE #02
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
