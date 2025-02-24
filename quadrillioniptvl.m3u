@@ -32,7 +32,7 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
-#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO (TFC)" tvg-logo="hhttps://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 TFC CHANNELS",TELERADYO (TFC)
+#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO (TFC)" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 TFC CHANNELS",TELERADYO (TFC)
 https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
 
@@ -50,9 +50,6 @@ https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https:/
 #KODIPROP:inputstream.adaptive.license_key=141288d93b0f4f89a3f614a365671411:ccd2e8162c5fe3f6d5207fb941c09686
 #EXTINF:-1 tvg-id="knowchantfc" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 TFC CHANNELS",KNOWLEDGE CHANNELS (TFC)
 https://abslive.akamaized.net/dash/live/2028189/kc/manifest.mpd|Referer=https://www.iwanttfc.com/
-
-#EXTINF:-1 tvg-id="xromkapuso" tvg-name="xROMTv InFo" tvg-logo="https://ott.quadrilliontv.com/upload/logo/new1.png" group-title="🇵🇭 KAPUSO CHANNELS",xROMTv InFo
-https://raw.githubusercontent.com/dhudzpanel/xromtv/main/xromtv%20intro%20ts.ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
