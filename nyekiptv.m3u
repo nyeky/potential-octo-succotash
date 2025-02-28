@@ -293,6 +293,20 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 #EXTINF:-1 tvg-id="mptvph" tvg-name="MEDIA PILIPINAS TV" tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png" group-title="SPORTS",MEDIA PILIPINAS TV
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q8BENJg.png"group-title="Sport",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png"group-title="Sport",CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8?checkedby:iptvcat.com
+
+46a3b8ff-5a4a-4952-bb4d-9461224acd54&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png"group-title="Sport",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png"group-title="Sport",NBC Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586&checkedby:iptvcat.com
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #EXTINF:-1 tvg-id="tapsports" tvg-name="TAP SPORTS" tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png" group-title="SPORTS",TAP SPORTS 
@@ -427,6 +441,19 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 #EXTINF:-1 tvg-id="warnertvph2" tvg-name="WARNER TV" tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png" group-title="ENTERTAINMENT",WARNER TV
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+#EXTINF:-1 tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png"group-title="Undefined",Nick Jr. Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png"group-title="Undefined",Disney Channel (720p)
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png"group-title="Undefined",Disney Jr. (720p)
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png"group-title="Undefined",Disney XD (720p)
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8?checkedby:iptvcat.com
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
