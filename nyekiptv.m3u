@@ -1016,4 +1016,63 @@ http://fl2.moveonjoy.com/NHL_5/index.m3u8
 http://fl2.moveonjoy.com/NHL_6/index.m3u8
 #EXTINF:-1 tvg-id="nyekiptv"tvg-logo="https://ott.quadrilliontv.com/upload/images/nyek%20logo.png"group-title="FREE IPTV",NHL 9
 http://fl2.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png"group-title="a| PH CableTV",AL JAZEERA ENGLISH
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="noimage.png"group-title="a| PH CableTV",American idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://i.imgur.com/Mw0YOcq.jpg"group-title="a| PH CableTV",Animax
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:AE:D9:24&stream=463609&extension=ts&play_token=zMlsCa2mfS
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="noimage.png"group-title="a| PH CableTV",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://i.imgur.com/1nykesS.jpg"group-title="a| PH CableTV",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png"group-title="a| PH CableTV",DreamWorks HD
+http://skipbox.org:2095/play/live.php?mac=00:1A:79:7e:10:cb&stream=35394&extension=ts
+#EXTINF:-1 tvg-id="phcathenatv/onesports"tvg-logo="https://i.imgur.com/nV55veq.png"group-title="a| PH CableTV",Fight Sports
+http://115.146.176.131:80/TimRizal/TimRizal/65
+#EXTINF:-1 tvg-id="phcathenatv/onenews"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png"group-title="a| PH CableTV",Fox News
+http://115.146.176.131:80/TimRizal/TimRizal/7
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/82/c8/4d/82c84d0d-a2a1-2df8-ee23-da091ed671c6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg"group-title="a| PH CableTV",INC TV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="noimage.png"group-title="a| PH CableTV",Mr bean
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/cb7d3e1a7b776f86cece3f6cd4f149a3d10e6a84563ad53239f95e9073941d5387b8f2c0e74fe96f0ebdb5ef1c552708013b9a06db6201d7c606f10f71341c64ebc6e63986c04619b3d9043a6cea3c4141ff0715d4352167d0e51e47b70de4584b41b859390462c3ed58af6f42b4c04ad72a4edeffa6387d625f5c98435ee3b046d887852039c47cfde8471d855810b4d91dd0c47fe4c588449a5d8666824cdfcdaddecc11808f8f63b751b4625116752cd9ad7691c051b39aa9683f9d6321094b06b1edc0a80c78de44120ca9ab9ee928a74697d968d03132bd4d9a1a8060c76af80df0e54aa3f9bedb16470b8bae2e09ff72e2dae8cb1d71d656f3abe5d4636c90f8116b35a607ba0318485b795676fea73485bf22ffd4237d6a81f941eaca5ba2ef35dd07bc5ce9bb7f1a6b1c70434e69a74eab9b22f628d371a4cf298f3d27beccb75ade8fd552312d1ac8d01e9c3f12b7ce93d89f2f35ce721453ec20880a5e2cda3d7a73a57ca0ca682cab3303893172c96864a10caee87ca2f58bab566ae7978763ef7fe3b03dd7f429a079730c51e4bc7f09050456f8da4b217c39cf4cefd68ac6720a0be3be8dcdcf4634486d59024ca8eaf57f968b8f784f4f8f03683622464fd8538729f20f4b0922cc5ee0ad0f75970f6e78b5f0710e0c1efba2d6a089d2d84bbc7ba1adac68557b33078b3a13291cb780844ff2422f2f230dd44d086eb205534eefd5f9ed968e6bc4fe37f92003f4020325e2996fc6096fcfb9cd46f3c091f26e14e2393e/33/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="noimage.png"group-title="a| PH CableTV",New Kmovies channel
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://clipground.com/images/nickelodeon-clipart-3.png"group-title="a| PH CableTV",Nick@nite
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png"group-title="a| PH CableTV",Nicktoons
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://i.ibb.co/d73Thkh/outdoor-channel-us.png"group-title="a| PH CableTV",Outdoor channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://omgtv.stream/logo/188975"group-title="a| PH CableTV",Pbs kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 10 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791645
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 11 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791646
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 13 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791648
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 17 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791652
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 19 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791654
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 20 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791655
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 24 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791659
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 25 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791660
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 26 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791661
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/jCsVjt.md.png"group-title="e| SKY STORE Premiere",Sky Store Premiere 30 ᴴᴰ
+http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791665
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/wUZqOv.md.png"group-title="f| NETFLIX Premiere",Netflix Premiere 1 ᴴᴰ
+http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791576
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/wUZqOv.md.png"group-title="f| NETFLIX Premiere",Netflix Premiere 2 ᴴᴰ
+http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791577
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/wUZqOv.md.png"group-title="f| NETFLIX Premiere",Netflix Premiere 3 ᴴᴰ
+http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791578
+#EXTINF:-1 tvg-id="Dummy"tvg-logo="https://iili.io/wUZqOv.md.png"group-title="f| NETFLIX Premiere",Netflix Premiere 7 ᴴᴰ
+http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791582
+
 
